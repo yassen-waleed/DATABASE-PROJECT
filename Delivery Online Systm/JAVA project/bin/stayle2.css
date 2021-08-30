@@ -1,0 +1,12 @@
+.button {
+   -fx-background-color:linear-gradient(to bottom right, #6d92bf, white);
+    -fx-font-family: "Comic Sans MS";
+    -fx-background-color: #4c534c ;
+	-fx-text-fill : #ffffff;
+	-fx-alignment: center;
+    -fx-font-size: 18;
+}
+.button:hover{
+    -fx-background-color: lightblue;
+
+}
